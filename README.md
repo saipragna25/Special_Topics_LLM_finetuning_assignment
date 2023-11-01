@@ -2,7 +2,8 @@ a) Simple Agents assignment
 
 Build a very simple python agent and demonstrate multiple backend tools (use chatgpt to write the backends to various tools) - provide more tools than the hint as well as an outer loop.
 
-hint: https://til.simonwillison.net/llms/python-react-patternLinks to an external site. and https://docs.google.com/presentation/d/11jJYgT6sZOtrwx6YK6-yqyfCMrO-j2KdA_-UuhSSQ1U/edit#slide=id.g285ab91e5c8_0_338Links to an external site. (see notes)
+Link For Colab:
+https://colab.research.google.com/github/saipragna25/Special_Topics_LLM_finetuning_assignment/blob/main/task%20A/ST_LLM_finetuning_assignment_a.ipynb
 
 b) Implement auto agent
 
