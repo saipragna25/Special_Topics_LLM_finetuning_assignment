@@ -5,11 +5,16 @@ Build a very simple python agent and demonstrate multiple backend tools (use cha
 Link For Colab:
 https://colab.research.google.com/github/saipragna25/Special_Topics_LLM_finetuning_assignment/blob/main/task%20A/ST_LLM_finetuning_assignment_a.ipynb
 
+
 b) Implement auto agent
 
 Leverage auto agent to build a virtual company to do a project (use gpt4) and provide all the artifacts of the project. come up with novel example other than the hint file 
 
 Hint: https://github.com/Link-AGI/AutoAgentsLinks to an external site.
+
+
+
+
 
  
 
@@ -28,13 +33,18 @@ d) use QLora to finetune a model. generate custom data set.
 
 hint: https://docs.google.com/presentation/d/11jJYgT6sZOtrwx6YK6-yqyfCMrO-j2KdA_-UuhSSQ1U/edit#slide=id.g28b63e79207_0_7021Links to an external site. (see notes slide) and mistral slides 
 
+ Link for colab:
+
+ https://colab.research.google.com/github/saipragna25/Special_Topics_LLM_finetuning_assignment/blob/main/task%20D/ST_LLM_Finetuning_LLm_QLora_d.ipynb
  
 
 e) use mistral llm with RAG and demonstrate a production usecase
 
-hint: https://docs.google.com/presentation/d/11jJYgT6sZOtrwx6YK6-yqyfCMrO-j2KdA_-UuhSSQ1U/edit#slide=id.g28b63e79207_0_7046Links to an external site.
-
 deploy the finetuned model on production
+
+Link for colab:
+
+https://colab.research.google.com/github/saipragna25/Special_Topics_LLM_finetuning_assignment/blob/main/task%20E/ST_mistral_llm_with_RAG.ipynb
 
  
 
