@@ -10,22 +10,22 @@ b) Implement auto agent
 
 Leverage auto agent to build a virtual company to do a project (use gpt4) and provide all the artifacts of the project. come up with novel example other than the hint file 
 
-Hint: https://github.com/Link-AGI/AutoAgentsLinks to an external site.
+Link for Colab:
 
+https://colab.research.google.com/github/saipragna25/Special_Topics_LLM_finetuning_assignment/blob/main/task%20B/ST_LLM_Fine_tuning_b.ipynb
 
-
-
-
- 
 
 c) Finetune LLM for your custom task
 
 Use Lora to finetune the model - https://docs.google.com/presentation/d/11jJYgT6sZOtrwx6YK6-yqyfCMrO-j2KdA_-UuhSSQ1U/edit#slide=id.g28b63e79207_0_7014Links to an external site.   (see notes)
 Create custom data sets and fine tune for this assignment 
-Hint :
-https://www.youtube.com/watch?v=fYyZiRi6yNE&t=772sLinks to an external site.
 
 (colab in description)  and mistral slides
+
+Link for Colab:
+
+https://colab.research.google.com/github/saipragna25/Special_Topics_LLM_finetuning_assignment/blob/main/task%20C/ST_LLM_Finetuning_LLm_Lora_C.ipynb
+
 
  
 
@@ -56,10 +56,24 @@ Hint: https://docs.google.com/presentation/d/11jJYgT6sZOtrwx6YK6-yqyfCMrO-j2KdA_
 
 (see notes)
 
+
+Link for Colab:
+
+https://colab.research.google.com/github/saipragna25/Special_Topics_LLM_finetuning_assignment/blob/main/task%20F/ST_LLM_Finetuning_f.ipynb
+
  
 
 g) Quantize llm with ggml and gguf and build an end2end chat application on mobile phone and load the model and demonstrate using MLC end2end.
 
+Link for Colab:
+
+https://colab.research.google.com/github/saipragna25/Special_Topics_LLM_finetuning_assignment/blob/main/task%20G/ST_LLM_Finetuning_g.ipynb
+
  
 
 h) Use LLM studio and LLM Data Studio to demonstrate data set generation, fine tuning, deployment to huggingface and inference (Gradio)
+
+
+Link for colab:
+
+https://colab.research.google.com/github/saipragna25/Special_Topics_LLM_finetuning_assignment/blob/main/task%20H/ST_LLM_Finetuning_h.ipynb
